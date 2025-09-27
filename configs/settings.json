@@ -1,0 +1,17 @@
+{
+  "points_per_trace": 1000,
+  "total_traces": 100000,
+  "block_size": 2000,
+  "schedule_traces": [
+    1000,
+    2000,
+    5000,
+    10000,
+    20000,
+    50000,
+    100000
+  ],
+  "plots_dir": "outputs/figs",
+  "outputs_dir": "outputs",
+  "trace_path": "/mnt/data/Traces.dat"
+}

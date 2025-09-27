@@ -1,0 +1,5 @@
+Assignment 10 — Non-specific Welch t-test up to 3rd order.
+We compare fixed (id=0) vs random (id=1) groups for each point.
+Order m uses y = x**m (raw moments).
+Checkpoints: [2000, 2000, 6000, 10000, 20000, 50000, 100000]
+Outputs: 3× plot_points_t_order_X.png, 3× plot_nrtraces_t_order_X.png.
